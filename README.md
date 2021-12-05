@@ -8,7 +8,9 @@ This app aggregates thousands of recipes. Find a recipe, bookmark it, easily cha
 
 ## How to run it
 
-Use **npm start** & localhost to properly launch it.
+Use your localhost to properly launch it.
+
+```npm start```
 
 ## Built with
 
